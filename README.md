@@ -1,2 +1,3 @@
 # hello-world
 Initial learning repo
+Learning the basics of git usage...
